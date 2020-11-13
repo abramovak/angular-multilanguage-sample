@@ -1,0 +1,17 @@
+{
+    "contact-page": {
+        "site-name":"Страница контактов"
+    },
+    "home": {
+        "email":"Электронная почта",
+        "mobile":"Мобильный",
+        "name": "Имя",
+        "name-required":"Имя обязательно",
+        "password":"Пароль",
+        "site-name": "Многоязычный сайт на Angular, созданный в STEP IT"
+    },
+    "shared":{
+        "submit":"Отправить"
+    }
+}
+    
